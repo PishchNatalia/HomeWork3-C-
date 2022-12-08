@@ -47,7 +47,7 @@ Console.WriteLine(result);
 
 */
   //Задача 3.Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
-
+/*
 void Cube (int number)
 {
     int num = 1;
@@ -63,7 +63,8 @@ void Cube (int number)
 Console.WriteLine("Введите любое число: ");
 int result = Convert.ToInt32(Console.ReadLine());
 Cube(result);
-  
+  */
+
 
 
 
